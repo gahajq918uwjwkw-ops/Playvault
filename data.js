@@ -70,4 +70,39 @@ const games = [
 
         legal: true
     }
+,
+    {
+        id: "playvault-test",
+
+        title: "PlayVault Test",
+
+        platform: "ps2",
+
+        genre: "Homebrew",
+
+        year: 2026,
+
+        rating: 5,
+
+        size: "20 bytes",
+
+        developer: "playvault",
+
+        publisher: "playvault",
+
+        language: "indonesia",
+
+        region: "wordlwide",
+
+        image: "https://placehold.co/600x750/141722/ffffff?text=PlayVault+Test",
+
+        download_url: "https://drive.google.com/file/d/1Ah_Z0jpNjE4MnX0T6vunShgHz70Pit92/view",
+
+        description:
+            "File tes untuk menguji sistem upload PlayVault.",
+
+        popular: true,
+
+        legal: true
+    }
 ];
