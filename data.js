@@ -105,4 +105,39 @@ const games = [
 
         legal: true
     }
+,
+    {
+        id: "rumble-racing",
+
+        title: "rumble racing",
+
+        platform: "ps2",
+
+        genre: "race",
+
+        year: 2001,
+
+        rating: 4.8,
+
+        size: "335mb",
+
+        developer: "EA sport",
+
+        publisher: "playvault",
+
+        language: "EU",
+
+        region: "EU",
+
+        image: "rumbleracing.jpeg",
+
+        download_url: "https://drive.google.com/file/d/1dQoX8dparHgzPtmohgxLGyBYWZdY5D8b/view",
+
+        description:
+            "Merupakan kelanjutan spiritual atau sangat dipengaruhi oleh permainan NASCAR Rumble",
+
+        popular: true,
+
+        legal: true
+    }
 ];
