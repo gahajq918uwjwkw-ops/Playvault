@@ -140,4 +140,39 @@ const games = [
 
         legal: true
     }
+,
+    {
+        id: "god-hand",
+
+        title: "god hand",
+
+        platform: "ps2",
+
+        genre: "action",
+
+        year: 2006,
+
+        rating: 4.8,
+
+        size: "956 mb",
+
+        developer: "clover studio",
+
+        publisher: "capcom",
+
+        language: "usa",
+
+        region: "wordlwide",
+
+        image: "https://share.google/x8vNBrKpZNnICCKc0",
+
+        download_url: "https://drive.google.com/file/d/1960HEv-yI7T4MS5bedunDQCEQaGo3NBO/view",
+
+        description:
+            "God Hand adalah game aksi bergenre beat 'em up bertema komedi absurd yang dirilis pada tahun 2006. Game legendaris ini dikembangkan oleh Clover Studio dan diterbitkan oleh Capcom khusus untuk konsol PlayStation 2 (PS2). Disutradarai oleh Shinji Mikami—kreator di balik seri Resident Evil—game ini terkenal karena tingkat kesulitannya yang brutal serta sistem pertarungannya yang sangat unik",
+
+        popular: true,
+
+        legal: true
+    }
 ];
